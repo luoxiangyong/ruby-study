@@ -11,15 +11,8 @@ Ruby programming study.
   
 
 ##  安装iruby
-```
-git clone git://github.com/minrk/iruby
-cd iruby
-#build and install IRuby
-gem build iruby.gemspec
-$ gem install iruby-*.gem
-# Create an IPython profile with default config 
-$ iruby_profile --create
-$ ipython notebook --profile=ruby 
-```  
+
+参考[iruby站点](https://github.com/SciRuby/iruby)　，进行安装。
+
 
 That is OK!
