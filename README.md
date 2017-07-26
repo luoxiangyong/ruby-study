@@ -1,5 +1,5 @@
 # ruby-study
-Ruby programming study. 
+Ruby programming study.
 
 基于jupyter　notebook的部分使用ubuntu系统
 
@@ -8,7 +8,7 @@ Ruby programming study.
 
 ##  安装jupyter
   > sudo　pip install jupyter
-  
+
 
 ##  安装iruby
 

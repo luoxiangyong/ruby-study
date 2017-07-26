@@ -1,6 +1,5 @@
 #! /usr/bin/ruby -w
 
-
 count = 0
 threads = []
 
